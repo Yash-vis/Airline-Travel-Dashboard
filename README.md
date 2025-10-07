@@ -5,10 +5,15 @@ What the Dashboard Shows
 
 Total Flights: 1200
 Total Passengers: 315K
+
 Revenue breakdown by airline
+
 Distribution of travel class (Economy, Business, First, Premium)
+
 Contribution of each age group to total travel
+
 Revenue and revenue per kilometer by route
+
 Dynamic filters for Gender and Travel Class to explore the data
 
 Key Insights
