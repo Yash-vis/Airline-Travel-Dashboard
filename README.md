@@ -23,11 +23,11 @@ Dynamic filters for Gender and Travel Class to explore the data
 
 Singapore Airlines and Delta Airlines lead in total revenue.
 
-Most passengers belong to the 19–30 age group, contributing the highest to Business and Economy class.
+Most passengers belong to the 19-30 age group, contributing the highest to Business and Economy class.
 
 Economy class remains the most preferred overall.
 
-Some long-haul routes like Sydney → Paris and Delhi → London generate strong revenue despite lower passenger counts.
+Some long-haul routes like Sydney - Paris and Delhi - London generate strong revenue despite lower passenger counts.
 
 
 ## Dataset Info 
@@ -41,3 +41,6 @@ Bookings & Passengers (~500K+ rows)
 Payments (~1M+ records)
 
 Airports (worldwide route and airport details)
+
+
+### Dashboard link : https://drive.google.com/file/d/1gIEQwjxKbIKOQmcDfj-DglRKcg04rhad/view?usp=sharing
