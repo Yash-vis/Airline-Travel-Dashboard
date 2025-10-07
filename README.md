@@ -1,7 +1,8 @@
 # Airline-Travel-Dashboard
 This is an interactive Airline Travel Dashboard I created using Power BI to analyze passenger and flight data. The goal of this project was to uncover insights about travel patterns, age demographics, airline revenues, and route performance all presented in a clean, modern dashboard.
 
-What the Dashboard Shows
+
+What the Dashboard Shows:
 
 Total Flights: 1200
 
@@ -17,7 +18,8 @@ Revenue and revenue per kilometer by route
 
 Dynamic filters for Gender and Travel Class to explore the data
 
-Key Insights
+
+Key Insights:
 
 Singapore Airlines and Delta Airlines lead in total revenue.
 
@@ -27,7 +29,8 @@ Economy class remains the most preferred overall.
 
 Some long-haul routes like Sydney → Paris and Delhi → London generate strong revenue despite lower passenger counts.
 
-Dataset Info
+
+Dataset Info :
 
 The dataset includes multiple tables:
 
